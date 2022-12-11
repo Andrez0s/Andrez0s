@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrez0s
 # 💫 About Me:
-🔭 Atualmente iniciando meus estudos em programação<br>🌱 Estou aprendendo lógica de programação com Python<br>💬 ?<br>⚡ Ja tentei aprender a programar a uns anos atrás mas não fui pra frente<br>Agora vai!
+🔭 Atualmente iniciando meus estudos em programação<br>🌱 Estou aprendendo lógica de programação com Python<br>💬 ?
 
 
 ## 🌐 Socials:
