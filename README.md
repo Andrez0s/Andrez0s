@@ -66,13 +66,13 @@
 <br/>  
 
 
-## Github Stats  
+## Wakatime Status  
 [Wakatime Perfil](https://wakatime.com/@76e9fc77-bf09-4b75-acfe-9eb0e76a5ae4)  
   
 
 
 
-### Wakatime Status  
+###  
 <div align="center">
 <img src="https://wakatime.com/badge/user/76e9fc77-bf09-4b75-acfe-9eb0e76a5ae4.svg" align="center" height="40" width="" />
 </div>  
@@ -81,7 +81,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Codando...  
 <div align="center">
 <img src="https://media3.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e471v5my53x43k4lb9ragrv4k66l3cil5kbsqr19mqu&rid=giphy.gif&ct=g" align="center" height="" width="" />
 </div>  
