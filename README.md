@@ -67,13 +67,21 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Andrez0s&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[Wakatime Perfil](https://wakatime.com/@76e9fc77-bf09-4b75-acfe-9eb0e76a5ae4)  
+  
+
+
+
+### Wakatime Status  
+<div align="center">
+<img src="https://wakatime.com/badge/user/76e9fc77-bf09-4b75-acfe-9eb0e76a5ae4.svg" align="center" height="40" width="" />
+</div>  
+  
 
 <br/>  
 
 
-## Status  
-<p>Codando</p>
+## Recent Blog Posts  
 <div align="center">
 <img src="https://media3.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e471v5my53x43k4lb9ragrv4k66l3cil5kbsqr19mqu&rid=giphy.gif&ct=g" align="center" height="" width="" />
 </div>  
