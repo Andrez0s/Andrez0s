@@ -78,11 +78,11 @@
 <br/>  
 
 
-## Wakatime Stats  
-<figure><embed src="https://wakatime.com/share/@Andrez0s/23fbf091-3e6c-42da-89b7-d9aa76015fff.svg"></embed></figure>  
+## Recent Blog Posts  
+![Wakatime Coding Activity](<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Andrez0s/a000157a-ca77-4a4e-88cd-5e48b19603be.png" /></a>)  
   
 
-<figure><embed src="https://wakatime.com/share/@Andrez0s/ba1ae06e-7326-4154-b98b-97a15a5821ac.svg"></embed></figure>  
+![Wakatime Languages](<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Andrez0s/9354a058-7e26-4865-9c51-45fa4de2b66b.png" /></a>)  
   
 
 <br/>  
