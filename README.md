@@ -1,15 +1,21 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47d1044jqf2g4uhc8kkio0ira2brgeadrsohp3m26t&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+<img src="https://camo.githubusercontent.com/fa241c65b0059f638eac405d78f0ac0744a9b371dca6e5488ccca1602e7c61e0/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f4468357130735368786770313344777276472f67697068792e6769663f6369643d656366303565343764313034346a7166326734756863386b6b696f306972613262726765616472736f6870336d323674267269643d67697068792e6769662663743d67" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">Olá 🖐️, Sou André, Futuro desenvolvedor web</div>  
+### <div align="center">Olá 🖐️ , Sou André, Futuro desenvolvedor web</div>  
   
 
 - 🔭 Aprendendo a programar!  
   
 
 - 🌱 Atualmente estudando HTML CSS e Javascript  
+  
+
+- 🌐 [Perfil Alura](https://cursos.alura.com.br/user/Andrez0s)  
+  
+
+- 💻  <a href="https://wakatime.com/@76e9fc77-bf09-4b75-acfe-9eb0e76a5ae4"><img src="https://wakatime.com/badge/user/76e9fc77-bf09-4b75-acfe-9eb0e76a5ae4.svg" alt="Total time coded since Jan 5 2023" /></a>  
   
 
 <br/>  
@@ -54,10 +60,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/andrez0s" target="_blank">
+<a href="https://github.com/Andrez0s" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andre-alves98/" target="_blank">
+<a href="https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/andre-alves98/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -66,37 +72,41 @@
 <br/>  
 
 
-## Wakatime Status  
-[Wakatime Perfil](https://wakatime.com/@76e9fc77-bf09-4b75-acfe-9eb0e76a5ae4)  
-  
-
-
-
-###  
-<div align="center">
-<img src="https://wakatime.com/badge/user/76e9fc77-bf09-4b75-acfe-9eb0e76a5ae4.svg" align="center" height="40" width="" />
-</div>  
-  
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=andrez0s&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Codando...  
-<div align="center">
-<img src="https://media3.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e471v5my53x43k4lb9ragrv4k66l3cil5kbsqr19mqu&rid=giphy.gif&ct=g" align="center" height="" width="" />
-</div>  
+## Wakatime Stats  
+<figure><embed src="https://wakatime.com/share/@Andrez0s/23fbf091-3e6c-42da-89b7-d9aa76015fff.svg"></embed></figure>  
+  
+
+<figure><embed src="https://wakatime.com/share/@Andrez0s/ba1ae06e-7326-4154-b98b-97a15a5821ac.svg"></embed></figure>  
   
 
 <br/>  
+
+<div align="center">
+<img src="https://camo.githubusercontent.com/a76eb72c3cde8c55fb7c07f4cb5c3b9ffa928595e21c4937e21f675e82da9085/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f3143386248484a7475725378322f67697068792e6769663f6369643d65636630356534373176356d7935337834336b346c62397261677276346b36366c3363696c356b6273717231396d7175267269643d67697068792e6769662663743d67" align="center" height="" width="" />
+</div>  
+  
+
+****  
+  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31y3lekztnkl3s6sjtnhz3ctxyvm&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Andrez0s&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=andrez0s&&style=flat-square" align="center" />
 </div>  
   
+
+<br/>  
+
+<div align="center"></div>  
 
 <br/>  
 
