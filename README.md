@@ -117,3 +117,23 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+## Ferramenta: Analisador de Produto Shopee
+
+Criei um script em Python para analisar dados básicos de um anúncio da Shopee a partir da URL do produto:
+
+- Data de criação do anúncio (quando disponível)
+- Unidades vendidas
+- Média de vendas por dia
+- Média de vendas por mês (estimada em 30 dias)
+
+### Como usar
+
+```bash
+python3 shopee_analyzer.py "https://shopee.com.br/SEU-PRODUTO"
+```
+
+### Observações
+
+- A Shopee pode mudar o formato da página ou bloquear scraping.
+- Nesses casos, o script pode não conseguir identificar todos os campos.
